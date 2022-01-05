@@ -1,1 +1,21 @@
-# Student-manager
+<h1 align="center">Student Manager</h1>
+
+This project was based on a JavaScript course, using the React library.
+You can access the API Rest that works behind the scene as the backend for this project at this repository:
+[API Rest - Student Manager](https://github.com/DevDreamy/api-rest-student-manager)
+
+**This is not an actual app**, it's just for my portfolio and even though it uses some security to maintain your personal data safe (like hashing your password) I still highly recommend that you don’t use real information when creating or editing your user account or students.
+
+---
+
+###What you can do:
+It’s possible to create an account and with it you can create, edit or delete students, you can also upload a profile picture for each registered student. It’s possible to edit your own information (such as name, e-mail and password).
+
+
+#####Some changes I’ve made from the original project of the course:
+-	Implemented a new navbar with cool effects.
+-	Implemented responsivity to make the website work on mobile devices, tablets and etc.
+-	Reduced the number of error alerts shown when invalid information was submitted, showing one alert with all error messages instead of one alert for each invalid information submitted.
+-	Implemented a confirmation screen to appear when deleting students.
+-	Changed the “Novo Aluno” link to a button.
+-	Changed the colors to make it beautiful.
