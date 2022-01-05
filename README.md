@@ -1,4 +1,4 @@
-<h1 align="center">Student Manager</h1>
+# Student Manager
 
 This project was based on a JavaScript course, using the React library.
 You can access the API Rest that works behind the scene as the backend for this project at this repository:
