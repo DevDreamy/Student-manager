@@ -2,7 +2,7 @@
 
 This project was based on a JavaScript course, using ReactJS.
 You can access the Rest API that works behind the scene as the backend for this project at this repository:
-[**Rest API - Student Manager**](https://github.com/DevDreamy/rest-api-student-manager)
+[**Rest API - Student Manager**](https://github.com/DevDreamy/Student-manager-rest-api)
 
 **This is not an actual app**, it's just for my portfolio and even though it uses some security to maintain your personal data safe (like hashing your password) I still highly recommend that you **don’t use real information when creating or editing your user account or students**.
 
