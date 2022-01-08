@@ -16,7 +16,7 @@ It’s possible to create an account and with it you can create, edit or delete 
 
 #### Some changes I’ve made from the original project of the course:
 -	Implemented a new navbar with cool effects.
--	Implemented responsivity to make the website work on mobile devices, tablets and etc.
+-	Implemented responsive design.
 -	Reduced the number of error alerts shown when invalid information was submitted, showing one alert with all error messages instead of one alert for each invalid information submitted.
 -	Implemented a confirmation screen to appear when deleting students.
 -	Changed the “Novo Aluno” link to a button.
